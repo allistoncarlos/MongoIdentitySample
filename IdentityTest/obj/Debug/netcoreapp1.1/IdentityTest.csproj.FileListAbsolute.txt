@@ -1,0 +1,31 @@
+C:/Projetos (locais)/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.deps.json
+C:/Projetos (locais)/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.runtimeconfig.json
+C:/Projetos (locais)/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.runtimeconfig.dev.json
+C:/Projetos (locais)/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.dll
+C:/Projetos (locais)/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.pdb
+C:/Projetos (locais)/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+C:/Projetos (locais)/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.AssemblyInfo.cs
+C:/Projetos (locais)/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.dll
+C:/Projetos (locais)/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.pdb
+/Users/alliston/Desktop/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.deps.json
+/Users/alliston/Desktop/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.runtimeconfig.json
+/Users/alliston/Desktop/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.runtimeconfig.dev.json
+/Users/alliston/Desktop/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.dll
+/Users/alliston/Desktop/IdentityTest/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.pdb
+/Users/alliston/Desktop/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.csprojResolveAssemblyReference.cache
+/Users/alliston/Desktop/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.csproj.CoreCompileInputs.cache
+/Users/alliston/Desktop/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/alliston/Desktop/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.AssemblyInfo.cs
+/Users/alliston/Desktop/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.dll
+/Users/alliston/Desktop/IdentityTest/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.pdb
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.deps.json
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.runtimeconfig.json
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.runtimeconfig.dev.json
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.dll
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/bin/Debug/netcoreapp1.1/IdentityTest.pdb
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.csprojResolveAssemblyReference.cache
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.csproj.CoreCompileInputs.cache
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.AssemblyInfo.cs
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.dll
+/Users/alliston/Documents/Projetos/Estudos/DotNet Core/MongoIdentitySample/IdentityTest/obj/Debug/netcoreapp1.1/IdentityTest.pdb
